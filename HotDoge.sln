@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDoge", "HotDoge\HotDoge.csproj", "{B92E97C2-F690-45D4-ABCC-00D0619D2791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDoge.Persistence", "HotDoge.Persistance\HotDoge.Persistence.csproj", "{DB50C17D-10F6-4E44-A691-2A8BC1752448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDoge.Business", "HotDoge.Business\HotDoge.Business.csproj", "{F12EE16E-855D-4D7B-9759-054B8C0C1A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDoge.Entities", "HotDoge.Entities\HotDoge.Entities.csproj", "{AA92D148-C095-46A7-BE90-C690DCD967FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDoge.Ioc", "HotDoge.Ioc\HotDoge.Ioc.csproj", "{D871E3C9-3DA3-467D-9EDB-BAA07271A721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDoge.Tests", "HotDoge.Tests\HotDoge.Tests.csproj", "{F13A2000-EE63-4A06-832C-99233D247053}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F22B73A-9455-49EC-819C-D0FFAF771B39}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92E97C2-F690-45D4-ABCC-00D0619D2791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92E97C2-F690-45D4-ABCC-00D0619D2791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92E97C2-F690-45D4-ABCC-00D0619D2791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92E97C2-F690-45D4-ABCC-00D0619D2791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB50C17D-10F6-4E44-A691-2A8BC1752448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB50C17D-10F6-4E44-A691-2A8BC1752448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB50C17D-10F6-4E44-A691-2A8BC1752448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB50C17D-10F6-4E44-A691-2A8BC1752448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12EE16E-855D-4D7B-9759-054B8C0C1A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12EE16E-855D-4D7B-9759-054B8C0C1A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12EE16E-855D-4D7B-9759-054B8C0C1A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12EE16E-855D-4D7B-9759-054B8C0C1A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA92D148-C095-46A7-BE90-C690DCD967FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA92D148-C095-46A7-BE90-C690DCD967FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA92D148-C095-46A7-BE90-C690DCD967FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA92D148-C095-46A7-BE90-C690DCD967FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D871E3C9-3DA3-467D-9EDB-BAA07271A721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D871E3C9-3DA3-467D-9EDB-BAA07271A721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D871E3C9-3DA3-467D-9EDB-BAA07271A721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D871E3C9-3DA3-467D-9EDB-BAA07271A721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13A2000-EE63-4A06-832C-99233D247053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13A2000-EE63-4A06-832C-99233D247053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13A2000-EE63-4A06-832C-99233D247053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13A2000-EE63-4A06-832C-99233D247053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
