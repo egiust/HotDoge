@@ -1,5 +1,5 @@
 This is the HotDoge template project readme file.
-
+egiust 06/01/2014
 
 HotDoge is a bootstrap VS2013 solution for a basic website implementing useful features, in a maintainable and testable way. 
 With HotDoge as the base for your code, you only need to concentrate on your features and forget boilerplate coding.
