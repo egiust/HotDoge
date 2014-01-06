@@ -38,7 +38,10 @@ Lists of projects within the solution :
 
 Use it :
 
-First, build the solution.
+Open the solution in visual studio, Right click on the Solution node in Solution Explorer and select Enable NuGet Package Restore. 
+This will allow visual studio to retrieve missing nuget packages when building the solution.
+
+Then, build the solution.
 
 Change the name of the database to deploy to in HotDoge.Persistence.DogeContext.cs
 
